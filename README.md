@@ -2,11 +2,11 @@
 
 ### Framework
 
-![image-20231007184703940](C:\Users\randommm\AppData\Roaming\Typora\typora-user-images\image-20231007184703940.png)
+![Loading Model Overview](assets/framework.png "Model Overview")
 
 ### Episode
 
-![image-20231007184646501](C:\Users\randommm\AppData\Roaming\Typora\typora-user-images\image-20231007184646501.png)
+![image-20231007184646501](assets/pipeline.png)
 
 
 
@@ -41,9 +41,9 @@ Our models MetroGNN, usually converges with less than 100 iterations, which take
 
 ### Result
 
-![image-20231007184747711](C:\Users\randommm\AppData\Roaming\Typora\typora-user-images\image-20231007184747711.png)
+![image-20231007184747711](assets/result_table.png)
 
-![image-20231007184843088](C:\Users\randommm\AppData\Roaming\Typora\typora-user-images\image-20231007184843088.png)
+![image-20231007184843088](assets/result_visual.png)
 
 - We compared MetroGNN to other baselines at different budgets, with the metrics being OD flow satisfaction.
 - If two regions can be connected by a metro network, the product of the OD flow and the transportation efficiency (the ratio of straight-line distance to path distance) between the two regions is considered to be the OD flow satisfaction.
